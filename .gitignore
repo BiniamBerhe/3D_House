@@ -109,6 +109,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+House_address
+map_files
 
 # Spyder project settings
 .spyderproject
